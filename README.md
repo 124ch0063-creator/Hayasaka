@@ -22,7 +22,7 @@ ___
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/hayasaka.git
+    git clone https://github.com/124ch0063-creator/hayasaka.git
     ```
 
 2. Install the required packages.
